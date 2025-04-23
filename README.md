@@ -1,7 +1,7 @@
-##🕌 Halal Food Checker 🍽️
+🕌 Halal Food Checker 🍽️
 A Flutter-based mobile app that helps users identify whether a food product is Halal, Haram, or Unknown by scanning its barcode and analyzing the ingredients using the OpenFoodFacts API.
 
-##📱 Features
+📱 Features
 
 📷 Barcode Scanner (powered by mobile_scanner)
 
@@ -13,7 +13,7 @@ A Flutter-based mobile app that helps users identify whether a food product is H
 
 📦 Built using modern Flutter & Dart
 
-##🚀 How It Works
+🚀 How It Works
 
 Scan the barcode of a food product.
 
@@ -23,7 +23,7 @@ It checks for known haram ingredients.
 
 Displays whether the product is Halal, Haram, or Unknown.
 
-##🛠️ Tech Stack
+🛠️ Tech Stack
 
 Flutter
 
