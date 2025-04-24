@@ -1,5 +1,3 @@
-// lib/utils/halal_checker.dart
-
 const List<String> haramIngredients = [
   "gelatin",
   "alcohol",

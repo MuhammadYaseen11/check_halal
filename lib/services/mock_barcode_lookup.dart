@@ -1,3 +1,4 @@
+//mock implementation of barcode lookup service
 Map<String, List<String>> mockProductIngredients = {
   '1234567890': ['Gelatin', 'Sugar', 'Water'],
   '0987654321': ['E471', 'Flour', 'Salt'],
